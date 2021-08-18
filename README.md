@@ -1,2 +1,2 @@
-# Melody
-учебный проект
+# Melody - учебный проект
+##  Выполнил: Vlad korolenko
